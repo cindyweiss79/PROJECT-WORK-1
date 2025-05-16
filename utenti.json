@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "nome": "Mario",
+      "cognome": "Rossi",
+      "email": "mario.rossi@example.com",
+      "citta": "Roma"
+    },
+    {
+      "id": 2,
+      "nome": "Laura",
+      "cognome": "Bianchi",
+      "email": "laura.bianchi@example.com",
+      "citta": "Milano"
+    },
+    {
+      "id": 3,
+      "nome": "Giuseppe",
+      "cognome": "Verdi",
+      "email": "giuseppe.verdi@example.com",
+      "citta": "Torino"
+    },
+    {
+      "id": 4,
+      "nome": "Anna",
+      "cognome": "Neri",
+      "email": "anna.neri@example.com",
+      "citta": "Napoli"
+    },
+    {
+      "id": 5,
+      "nome": "Roberto",
+      "cognome": "Ferrari",
+      "email": "roberto.ferrari@example.com",
+      "citta": "Genova"
+    },
+    {
+      "id": 6,
+      "nome": "Paola",
+      "cognome": "Russo",
+      "email": "paola.russo@example.com",
+      "citta": "Bologna"
+    },
+    {
+      "id": 7,
+      "nome": "Carlo",
+      "cognome": "Bruni",
+      "email": "carlo.bruni@example.com",
+      "citta": "Firenze"
+    },
+    {
+      "id": 8,
+      "nome": "Elisa",
+      "cognome": "Pellegrini",
+      "email": "elisa.pellegrini@example.com",
+      "citta": "Palermo"
+    },
+    {
+      "id": 9,
+      "nome": "Giorgio",
+      "cognome": "Serra",
+      "email": "giorgio.serra@example.com",
+      "citta": "Cagliari"
+    },
+    {
+      "id": 10,
+      "nome": "Marina",
+      "cognome": "Leone",
+      "email": "marina.leone@example.com",
+      "citta": "Verona"
+    }
+  ]
